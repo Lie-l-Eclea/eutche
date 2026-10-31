@@ -4404,5 +4404,269 @@
   "tags": [],
   "n": 488,
   "id": "wmvwem2kv0ssr"
+ },
+ {
+  "head": "nu",
+  "mean": "해먹",
+  "input": "%nu",
+  "note": "원형 nu",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 489,
+  "id": "wmvwfz026kmtb"
+ },
+ {
+  "head": "sandom",
+  "mean": "바늘",
+  "input": "%sandom",
+  "note": "",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 490,
+  "id": "wmvwfz0air50y"
+ },
+ {
+  "head": "ilameh",
+  "mean": "수건",
+  "input": "%ilameh",
+  "note": "",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 491,
+  "id": "wmvwfz0giyng4"
+ },
+ {
+  "head": "sulle",
+  "mean": "선물",
+  "input": "%sulle",
+  "note": "",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 492,
+  "id": "wmvwfz0mjv1eh"
+ },
+ {
+  "head": "axgame",
+  "mean": "갑옷",
+  "input": "%axgame",
+  "note": "",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 493,
+  "id": "wmvwfz0sk26bn"
+ },
+ {
+  "head": "sesano",
+  "mean": "빨래",
+  "input": "%sesano",
+  "note": "원형 sesano",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 494,
+  "id": "wmvwfz0yk3wpp"
+ },
+ {
+  "head": "idli",
+  "mean": "두건",
+  "input": "%idli",
+  "note": "",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 495,
+  "id": "wmvwfz14l4hbg"
+ },
+ {
+  "head": "expan",
+  "mean": "주화",
+  "input": "%expan",
+  "note": "",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 496,
+  "id": "wmvwfz1b21js9"
+ },
+ {
+  "head": "amil",
+  "mean": "어금니",
+  "input": "%amil",
+  "note": "",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 497,
+  "id": "wmvwfz1h3mrvr"
+ },
+ {
+  "head": "pemulte",
+  "mean": "방해하다",
+  "input": "%pemulte",
+  "note": "",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 498,
+  "id": "wmvwfz1n47rqc"
+ },
+ {
+  "head": "sommah",
+  "mean": "조금",
+  "input": "%sommah",
+  "note": "",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 499,
+  "id": "wmvwfz1tlmglz"
+ },
+ {
+  "head": "tammah",
+  "mean": "고아",
+  "input": "%tammah",
+  "note": "",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 500,
+  "id": "wmvwfz202oc99"
+ },
+ {
+  "head": "isikuxa",
+  "mean": "옮기다",
+  "input": "%isikuxa",
+  "note": "",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 501,
+  "id": "wmvwfz26ksm0i"
+ },
+ {
+  "head": "den",
+  "mean": "도랑",
+  "input": "%den",
+  "note": "",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 502,
+  "id": "wmvwfz2d1wje8"
+ },
+ {
+  "head": "axepkee",
+  "mean": "어울림",
+  "input": "%axepkee",
+  "note": "",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 503,
+  "id": "wmvwfz2jibm8g"
+ },
+ {
+  "head": "kanej",
+  "mean": "마법사",
+  "input": "%kanej",
+  "note": "",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 504,
+  "id": "wmvwfz2pj59m0"
+ },
+ {
+  "head": "matej",
+  "mean": "절름발이이다",
+  "input": "%matej",
+  "note": "",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 505,
+  "id": "wmvwfz2w0m6dm"
+ },
+ {
+  "head": "amiegie",
+  "mean": "유령",
+  "input": "%amiegie",
+  "note": "",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 506,
+  "id": "wmvwfz32itv7s"
+ },
+ {
+  "head": "plide",
+  "mean": "잉걸불",
+  "input": "%plide",
+  "note": "",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 507,
+  "id": "wmvwfz39g9v5t"
+ },
+ {
+  "head": "xunat",
+  "mean": "냄새 맡다",
+  "input": "%xunat",
+  "note": "",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 508,
+  "id": "wmvwfz3fxf3ob"
+ },
+ {
+  "head": "axku",
+  "mean": "뉘우치다",
+  "input": "%axku",
+  "note": "",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 509,
+  "id": "wmvwfz3me1fd7"
+ },
+ {
+  "head": "xan",
+  "mean": "서리 (추위)",
+  "input": "%xan",
+  "note": "",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 510,
+  "id": "wmvwfz3swac9j"
+ },
+ {
+  "head": "ahtej",
+  "mean": "강하다",
+  "input": "%ahtej",
+  "note": "",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 511,
+  "id": "wmvwfz3zuov7v"
+ },
+ {
+  "head": "penda",
+  "mean": "옷감 염색",
+  "input": "%penda",
+  "note": "",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 512,
+  "id": "wmvwfz46srmrj"
  }
 ]
