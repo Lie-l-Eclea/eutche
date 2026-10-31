@@ -4668,5 +4668,60 @@
   ],
   "n": 512,
   "id": "wmvwfz46srmrj"
+ },
+ {
+  "head": "kuhkux",
+  "mean": "솔",
+  "input": "%kuhkux",
+  "note": "원형 kʰuhkʰuχ",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 513,
+  "id": "wmvwjmhv0jn1f"
+ },
+ {
+  "head": "soǥu",
+  "mean": "향기롭다",
+  "input": "%soǥu",
+  "note": "원형 soᵑgu",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 514,
+  "id": "wmvwjmi3chqnf"
+ },
+ {
+  "head": "ileso",
+  "mean": "속옷",
+  "input": "%%ileso",
+  "note": "",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 515,
+  "id": "wmvwjmi9ccaez"
+ },
+ {
+  "head": "muđake",
+  "mean": "대장간",
+  "input": "%muđake",
+  "note": "원형 muⁿdakʰe",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 516,
+  "id": "wmvwjmifur11s"
+ },
+ {
+  "head": "puhti",
+  "mean": "꾸짖다",
+  "input": "%puhti",
+  "note": "원형 pʰuhtʰi",
+  "tags": [
+   "F 기원"
+  ],
+  "n": 517,
+  "id": "wmvwjmimbm10m"
  }
 ]
