@@ -1298,13 +1298,11 @@
  },
  {
   "head": "ekovese",
-  "input": "eko·vese",
   "mean": "이어폰",
+  "input": "ekovese",
+  "note": "",
+  "tags": [],
   "n": 142,
-  "note": "vese의 뜻 미확인",
-  "tags": [
-   "후대 합성어"
-  ],
   "id": "w142"
  },
  {
