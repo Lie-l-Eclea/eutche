@@ -2005,11 +2005,11 @@
   "id": "w221"
  },
  {
-  "head": "etlika",
-  "input": "etlika",
+  "head": "etlikatai",
+  "input": "etlikatai",
   "mean": "새벽",
   "n": 222,
-  "note": "",
+  "note": "etli(이르다) + katai(낮). 이전 형태 etlika",
   "id": "w222"
  },
  {
@@ -3293,7 +3293,7 @@
   "input": "etli",
   "mean": "이르다 (早)",
   "n": 363,
-  "note": "제망매가 번역에서 추가. etlika(새벽)에서 역형성",
+  "note": "제망매가 번역에서 추가. etlikatai(새벽)에서 역형성",
   "tags": [
    "에냥어 기원"
   ],
