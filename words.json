@@ -4893,5 +4893,18 @@
   ],
   "n": 519,
   "id": "wmwt9a9dg5mxs"
+ },
+ {
+  "head": "arkape",
+  "mean": "(인명) 사랑받는, 쓴, 반역",
+  "input": "arkape",
+  "note": "사랑받는: 계승어 arkapus/arkaput/arkapuk. 쓴: 에냥어 *vAr.gax.mɛ → arkame → arkape. 반역: 에냥어 *vɔr.gɔx.pun → arkapum → arkapup. 세 경로가 에클레아어 arcafe [aʁˈkaf]로 수렴",
+  "tags": [
+   "인명",
+   "에냥어 기원"
+  ],
+  "n": 520,
+  "id": "wmwuc9z0",
+  "pef": "vAr.gax.mɛ"
  }
 ]
