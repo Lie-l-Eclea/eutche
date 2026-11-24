@@ -1483,6 +1483,9 @@
   "mean": "여자 이름",
   "n": 163,
   "note": "",
+  "tags": [
+   "인명"
+  ],
   "id": "w163"
  },
  {
@@ -1907,6 +1910,9 @@
   "mean": "여자 이름",
   "n": 211,
   "note": "",
+  "tags": [
+   "인명"
+  ],
   "id": "w211"
  },
  {
@@ -2501,6 +2507,9 @@
   "mean": "만두와 유사한 음식 이름, 성씨",
   "n": 275,
   "note": "",
+  "tags": [
+   "인명"
+  ],
   "id": "w275"
  },
  {
@@ -4898,7 +4907,7 @@
   "head": "arkape",
   "mean": "(인명) 사랑받는, 쓴, 반역",
   "input": "arkape",
-  "note": "사랑받는: 계승어 arkapus/arkaput/arkapuk. 쓴: 에냥어 *vAr.gax.mɛ → arkame → arkape. 반역: 에냥어 *vɔr.gɔx.pun → arkapum → arkapup. 세 경로가 에클레아어 arcafe [aʁˈkaf]로 수렴",
+  "note": "사랑받는: 계승어 arkaput. 쓴: 에냥어 *vAr.gax.mɛ → arkame → arkape. 반역: 에냥어 *vɔr.gɔx.pun → arkapum → arkapup. 세 경로가 에클레아어 arcafe [aʁˈkaf]로 수렴",
   "tags": [
    "인명",
    "에냥어 기원"
@@ -4906,5 +4915,37 @@
   "n": 520,
   "id": "wmwuc9z0",
   "pef": "vAr.gax.mɛ"
+ },
+ {
+  "head": "arkape",
+  "mean": "쓴 (맛)",
+  "input": "arkape",
+  "note": "에냥어 *vAr.gax.mɛ → arkame → arkape",
+  "tags": [
+   "에냥어 기원"
+  ],
+  "n": 521,
+  "id": "wmwucemwmha",
+  "pef": "vAr.gax.mɛ"
+ },
+ {
+  "head": "arkapup",
+  "mean": "반역",
+  "input": "arkapup",
+  "note": "에냥어 *vɔr.gɔx.pun → arkapum → arkapup",
+  "tags": [
+   "에냥어 기원"
+  ],
+  "n": 522,
+  "id": "wmwucemwmlp",
+  "pef": "vɔr.gɔx.pun"
+ },
+ {
+  "head": "arkaput",
+  "mean": "사랑받는",
+  "input": "arkaput",
+  "note": "정복층 언어 계승어",
+  "n": 523,
+  "id": "wmwucemwm7q"
  }
 ]
