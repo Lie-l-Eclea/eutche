@@ -1263,7 +1263,7 @@
  {
   "head": "ar(e)-",
   "input": "are-",
-  "mean": "-하며",
+  "mean": "수단·방식·동시 (~어서, ~며)",
   "n": 140,
   "note": "",
   "id": "w140"
@@ -5015,5 +5015,32 @@
   "tags": [],
   "n": 532,
   "id": "wmwvr6k9onywb"
+ },
+ {
+  "head": "ka",
+  "input": "ka",
+  "mean": "날다",
+  "note": "",
+  "tags": [],
+  "n": 533,
+  "id": "wcpwqkmwqfa"
+ },
+ {
+  "head": "cil~ko",
+  "input": "cil~ko",
+  "mean": "뭔가, 무언가",
+  "note": "",
+  "tags": [],
+  "n": 534,
+  "id": "wzapxximkrm"
+ },
+ {
+  "head": "ete~ko",
+  "input": "ete~ko",
+  "mean": "어딘가 (어떤 곳, 어떤 점)",
+  "note": "",
+  "tags": [],
+  "n": 535,
+  "id": "wacuibgcwod"
  }
 ]
