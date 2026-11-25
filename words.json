@@ -4099,7 +4099,7 @@
   "head": "saipaka",
   "mean": "허벅지",
   "input": "saipaka",
-  "note": "",
+  "note": "sai-(몸쪽) + pa(다리) + -ka(부위, 구간)",
   "n": 440,
   "id": "wmvwb6wi2v3j5"
  },
@@ -4183,7 +4183,7 @@
   "head": "tospaka",
   "mean": "무릎",
   "input": "tospaka",
-  "note": "",
+  "note": "tos-(굽은) + pa(다리) + -ka(부위, 구간)",
   "tags": [
    "에냥어 기원"
   ],
@@ -4467,7 +4467,7 @@
   "head": "kulpa",
   "mean": "다리·발",
   "input": "kulpa",
-  "note": "",
+  "note": "kul-(먼쪽) + pa(다리). 다리 가운데 몸에서 먼 쪽이라 다리와 발을 함께 가리킴",
   "n": 482,
   "id": "wmvwdltjdgko4"
  },
@@ -4953,5 +4953,29 @@
   "n": 523,
   "id": "wmwucnvtopq",
   "pef": "vɔr.gɔx.pun"
+ },
+ {
+  "head": "kul-",
+  "mean": "먼쪽 (몸에서 먼 쪽, 합성어 앞 요소)",
+  "input": "kul-",
+  "note": "",
+  "n": 524,
+  "id": "wmwvdely7i0"
+ },
+ {
+  "head": "sai-",
+  "mean": "몸쪽 (몸에 가까운 쪽, 합성어 앞 요소)",
+  "input": "sai-",
+  "note": "",
+  "n": 525,
+  "id": "wmwvdely71j"
+ },
+ {
+  "head": "tos-",
+  "mean": "굽은, 꺾인 (합성어 앞 요소)",
+  "input": "tos-",
+  "note": "",
+  "n": 526,
+  "id": "wmwvdely7ec"
  }
 ]
