@@ -4099,7 +4099,7 @@
   "head": "saipaka",
   "mean": "허벅지",
   "input": "saipaka",
-  "note": "sai-(몸쪽) + pa(다리) + -ka(부위, 구간)",
+  "note": "",
   "n": 440,
   "id": "wmvwb6wi2v3j5"
  },
@@ -4183,7 +4183,7 @@
   "head": "tospaka",
   "mean": "무릎",
   "input": "tospaka",
-  "note": "tos-(굽은) + pa(다리) + -ka(부위, 구간)",
+  "note": "",
   "tags": [
    "에냥어 기원"
   ],
@@ -4467,7 +4467,7 @@
   "head": "kulpa",
   "mean": "다리·발",
   "input": "kulpa",
-  "note": "kul-(먼쪽) + pa(다리). 다리 가운데 몸에서 먼 쪽이라 다리와 발을 함께 가리킴",
+  "note": "",
   "n": 482,
   "id": "wmvwdltjdgko4"
  },
@@ -4915,67 +4915,5 @@
   "n": 520,
   "id": "wmwuc9z0",
   "pef": "vAr.gax.mɛ"
- },
- {
-  "head": "arka",
-  "mean": "약초",
-  "input": "arka",
-  "note": "에냥어 *vAr.gax.mɛ(쓴)를 *vAr.gax + *mɛ로 재분석한 앞부분. 풀은 kar가 따로 있어 약초로 둠. *vɔr.gɔx도 에냥어에서 같은 arka가 됨",
-  "tags": [
-   "에냥어 기원"
-  ],
-  "n": 521,
-  "id": "wmwucnvtoz4",
-  "pef": "vAr.gax"
- },
- {
-  "head": "pe",
-  "mean": "맛",
-  "input": "pe",
-  "note": "에냥어 *vAr.gax.mɛ(쓴)를 *vAr.gax + *mɛ로 재분석한 뒷부분. 조어 *mɛ → 에냥어 me → pe. Pe(부정), pe-와 동음",
-  "tags": [
-   "에냥어 기원"
-  ],
-  "n": 522,
-  "id": "wmwucnvtoqr",
-  "pef": "mɛ"
- },
- {
-  "head": "arkap",
-  "mean": "반역자",
-  "input": "@arkap",
-  "note": "에냥어 *N-vɔr.gɔx.pun (사람 표지 *N- + 반역). 유생 부류라 비음형 화석. 에클라이아어 단계에서 끝 음절 -up이 잘림(arkapup → arkap). Argamb",
-  "tags": [
-   "비음형 화석",
-   "에냥어 기원",
-   "행위자 명사"
-  ],
-  "n": 523,
-  "id": "wmwucnvtopq",
-  "pef": "vɔr.gɔx.pun"
- },
- {
-  "head": "kul-",
-  "mean": "먼쪽 (몸에서 먼 쪽, 합성어 앞 요소)",
-  "input": "kul-",
-  "note": "",
-  "n": 524,
-  "id": "wmwvdely7i0"
- },
- {
-  "head": "sai-",
-  "mean": "몸쪽 (몸에 가까운 쪽, 합성어 앞 요소)",
-  "input": "sai-",
-  "note": "",
-  "n": 525,
-  "id": "wmwvdely71j"
- },
- {
-  "head": "tos-",
-  "mean": "굽은, 꺾인 (합성어 앞 요소)",
-  "input": "tos-",
-  "note": "",
-  "n": 526,
-  "id": "wmwvdely7ec"
  }
 ]
