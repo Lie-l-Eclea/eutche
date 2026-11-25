@@ -4868,7 +4868,7 @@
   "head": "arkape",
   "mean": "(인명) 사랑받는, 쓴, 반역",
   "input": "arkape",
-  "note": "",
+  "note": "사랑받는: 계승어 arkaput. 쓴: 에냥어 *vAr.gax.mɛ → arkame → arkape. 반역: 에냥어 *vɔr.gɔx.pun → arkapum → arkapup. 세 경로가 에클레아어 arcafe [aʁˈkaf]로 수렴",
   "tags": [
    "인명",
    "에냥어 기원"
@@ -4881,7 +4881,7 @@
   "head": "arka",
   "mean": "약초",
   "input": "arka",
-  "note": "",
+  "note": "에냥어 *vAr.gax.mɛ(쓴)를 *vAr.gax + *mɛ로 재분석한 앞부분. 풀은 kar가 따로 있어 약초로 둠. *vɔr.gɔx도 에냥어에서 같은 arka가 됨",
   "tags": [
    "에냥어 기원"
   ],
@@ -4893,7 +4893,7 @@
   "head": "pe",
   "mean": "맛",
   "input": "pe",
-  "note": "",
+  "note": "에냥어 *vAr.gax.mɛ(쓴)를 *vAr.gax + *mɛ로 재분석한 뒷부분. 조어 *mɛ → 에냥어 me → pe. Pe(부정), pe-와 동음",
   "tags": [
    "에냥어 기원"
   ],
@@ -4905,7 +4905,7 @@
   "head": "arkap",
   "mean": "반역자",
   "input": "@arkap",
-  "note": "",
+  "note": "에냥어 *N-vɔr.gɔx.pun (사람 표지 *N- + 반역). 유생 부류라 비음형 화석. 에클라이아어 단계에서 끝 음절 -up이 잘림(arkapup → arkap). Argamb",
   "tags": [
    "비음형 화석",
    "에냥어 기원",
