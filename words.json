@@ -4914,5 +4914,19 @@
   "n": 523,
   "id": "wmwvdmdvrtj",
   "pef": "vɔr.gɔx.pun"
+ },
+ {
+  "head": "izer",
+  "mean": "사라지다",
+  "input": "$@icer",
+  "note": "",
+  "pef": "i.cer",
+  "tags": [
+   "비음형 화석",
+   "종결상 동사",
+   "에냥어 어근"
+  ],
+  "n": 524,
+  "id": "wmwvl2uq1zkde"
  }
 ]
