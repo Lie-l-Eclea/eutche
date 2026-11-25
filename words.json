@@ -12,7 +12,7 @@
   "input": "elos-",
   "mean": "축소접사",
   "n": 2,
-  "note": "이전 형태 telo-",
+  "note": "",
   "id": "w002"
  },
  {
@@ -60,7 +60,7 @@
   "input": "aklaia",
   "mean": "강 이름, 그 강의 신",
   "n": 8,
-  "note": "akla~ia: B 강 이름 kla + ia(신). 어두 kl이 허용되지 않아 a- 첨가(이전: klaia). 고유명이라 ia와 달리 비음형 화석이 되지 않음. Eklaia는 a- 첨가 이전에 e-kla~ia로 굳은 도시명",
+  "note": "",
   "id": "w008"
  },
  {
@@ -84,7 +84,7 @@
   "input": "@kaspar",
   "mean": "가져가다, 없애다, 지우다",
   "n": 11,
-  "note": "이전 형태 aste. @astu(바꾸다)와 같은 Ânde [ɑ̃d]가 되어 교체. Âmbar [ˈɑ̃baʁ]",
+  "note": "",
   "tags": [
    "비음형 화석",
    "종결상 동사"
@@ -111,7 +111,7 @@
   "head": "race~ka",
   "mean": "라냥, 날아다니는 젖먹이 동물",
   "input": "@race~ka",
-  "note": "race(윙윙거리다)+ka(나는 것)",
+  "note": "",
   "tags": [
    "비음형 화석",
    "생물"
@@ -456,7 +456,7 @@
   "input": "@ka",
   "mean": "나는 것 (날짐승·날벌레를 아우르는 말)",
   "n": 55,
-  "note": "이전 뜻 '새'. 새는 @cislia. 파리 ace~ka의 뒷 요소",
+  "note": "",
   "tags": [
    "비음형 화석",
    "생물"
@@ -664,7 +664,7 @@
   "input": "teko",
   "mean": "그러나, ~지만, ~인데도, (명사)에도 불구하고",
   "n": 78,
-  "note": "접어(^ 입력), 모음 앞 tek'. 이전 형태 kace는 에클레아어에서 kac(a)-(에게)와 같은 Caze가 되어 교체",
+  "note": "",
   "id": "w078"
  },
  {
@@ -703,7 +703,7 @@
   "head": "kas",
   "mean": "두 사람",
   "input": "@kas",
-  "note": "에클라이아어에서는 1인칭 쌍수 자유 대명사",
+  "note": "",
   "tags": [
    "비음형 화석"
   ],
@@ -714,7 +714,7 @@
   "head": "rak",
   "mean": "1인칭 복수",
   "input": "@rak",
-  "note": "에클레아어로 본디 1인칭 삼수",
+  "note": "",
   "tags": [
    "비음형 화석"
   ],
@@ -725,7 +725,7 @@
   "head": "tar",
   "mean": "군중",
   "input": "@tar",
-  "note": "본",
+  "note": "",
   "tags": [
    "비음형 화석",
    "에클라이아어에서는 1인칭 복수 자유 대명사"
@@ -750,7 +750,7 @@
   "input": "@tepia",
   "mean": "2인칭 복수",
   "n": 86,
-  "note": "에클레아어에서 자유 대명사는 dagne가 되어 @caso(개)와 동음 → orta-+ogne인 Ort'ogne로 대체됨(y'all·jullie 유형). 인칭 어미는 그대로",
+  "note": "",
   "tags": [
    "비음형 화석",
    "자유 대명사"
@@ -862,7 +862,7 @@
   "input": "@arta",
   "mean": "왔다 (오다의 과거형)",
   "n": 98,
-  "note": "완료상 비음형이 과거형으로 굳음. 현재형은 구강형 arta",
+  "note": "",
   "tags": [
    "비음형 화석",
    "종결상 동사"
@@ -1187,7 +1187,7 @@
   "input": "@ukla",
   "mean": "갔다 (가다의 과거형)",
   "n": 132,
-  "note": "완료상 비음형이 과거형으로 굳음. 현재형은 구강형 ukla",
+  "note": "",
   "tags": [
    "비음형 화석",
    "종결상 동사"
@@ -1273,7 +1273,7 @@
   "input": "@tekla",
   "mean": "왔다 (오다의 과거형)",
   "n": 141,
-  "note": "완료상 비음형이 과거형으로 굳음. 현재형은 구강형 tekla",
+  "note": "",
   "tags": [
    "비음형 화석",
    "종결상 동사"
@@ -1509,7 +1509,7 @@
   "input": "ekoilut",
   "mean": "우주선 (신화) + 우주선 (진)",
   "n": 168,
-  "note": "신화 속 우주선을 뜻하는 계승어. 실제 우주선은 근대에 이 말을 재활용",
+  "note": "",
   "id": "w168"
  },
  {
@@ -1533,7 +1533,7 @@
   "input": "riskatai",
   "mean": "해",
   "n": 171,
-  "note": "ris(해) + katai(낮)",
+  "note": "",
   "id": "w171"
  },
  {
@@ -1577,7 +1577,7 @@
   "input": "vau",
   "mean": "가지, 당(정당)",
   "n": 176,
-  "note": "지부·분파는 liska로 나눔",
+  "note": "",
   "id": "w176"
  },
  {
@@ -1796,7 +1796,7 @@
   "input": "arkatia",
   "mean": "마기계",
   "n": 202,
-  "note": "고대부터 쓰인 민간 계승어",
+  "note": "",
   "id": "w202"
  },
  {
@@ -1974,7 +1974,7 @@
   "input": "etlikatai",
   "mean": "새벽",
   "n": 222,
-  "note": "etli(이르다) + katai(낮). 이전 형태 etlika",
+  "note": "",
   "id": "w222"
  },
  {
@@ -2408,7 +2408,7 @@
   "input": "akla",
   "mean": "(사어) 에클라이아 성립 초기에 Eklaia와 혼용되던 국명",
   "n": 268,
-  "note": "B 강 이름 kla에 어두 a- 첨가(어두 kl 회피). akla~ia(신/강)에 화석으로 남음",
+  "note": "",
   "id": "w268"
  },
  {
@@ -2444,7 +2444,7 @@
   "input": "@ia",
   "mean": "신",
   "n": 272,
-  "note": "유생 일반명사라 비음형 화석(Dan). 고유명(akla~ia 등)은 화석화하지 않음",
+  "note": "",
   "tags": [
    "비음형 화석"
   ],
@@ -2455,7 +2455,7 @@
   "input": "asure",
   "mean": "종 (성당, 교회 등의)",
   "n": 273,
-  "note": "이전 형태 asero. 계급 접두사 asur(a)-의 어원",
+  "note": "",
   "id": "w273"
  },
  {
@@ -2650,7 +2650,7 @@
   "input": "@sir",
   "mean": "스스로, 자기, (명사 뒤) 그 자신, (명사 앞) 저, 그 (원칭 지시사)",
   "n": 294,
-  "note": "자유어는 대명사처럼 비음형 화석 Dind [dɛ̃]. 명사 앞이면 지시사(dind va '저 사람'), 명사 뒤면 강조(va dind '그 사람 자신'). 강조어 → 전방조응 지시사 경로(라틴어 ipse → 사르데냐어 su, 그리스어 autós). 접어형은 관계절 표지 sir^(Chir)",
+  "note": "",
   "tags": [
    "비음형 화석",
    "자유 대명사"
@@ -2864,7 +2864,7 @@
   "input": "liva",
   "mean": "인류",
   "n": 318,
-  "note": "대화에서 추가",
+  "note": "",
   "id": "w318"
  },
  {
@@ -2872,7 +2872,7 @@
   "input": "litau",
   "mean": "대지",
   "n": 319,
-  "note": "대화에서 추가",
+  "note": "",
   "id": "w319"
  },
  {
@@ -2880,7 +2880,7 @@
   "input": "esir-",
   "mean": "재귀 표지",
   "n": 320,
-  "note": "대화에서 추가",
+  "note": "",
   "id": "w320"
  },
  {
@@ -2888,7 +2888,7 @@
   "input": "kala",
   "mean": "신호, 부름",
   "n": 321,
-  "note": "인터내셔널가 번역 중 Claude가 만든 단어",
+  "note": "",
   "id": "w321"
  },
  {
@@ -2896,7 +2896,7 @@
   "input": "talekia",
   "mean": "화산",
   "n": 322,
-  "note": "인터내셔널가 번역 중 Claude가 만든 단어",
+  "note": "",
   "id": "w322"
  },
  {
@@ -2904,7 +2904,7 @@
   "input": "tapru",
   "mean": "뿌리, 근본",
   "n": 323,
-  "note": "인터내셔널가 번역 중 Claude가 만든 단어",
+  "note": "",
   "id": "w323",
   "tags": [
    "에냥어 기원"
@@ -2928,7 +2928,7 @@
   "input": "aitu~vu",
   "mean": "사각형",
   "n": 325,
-  "note": "고대 소유 복합어 '모서리 넷'이 융합",
+  "note": "",
   "id": "w325"
  },
  {
@@ -2936,7 +2936,7 @@
   "input": "aitu~ci",
   "mean": "삼각형",
   "n": 326,
-  "note": "고대 소유 복합어 '모서리 셋'이 융합",
+  "note": "",
   "id": "w326"
  },
  {
@@ -2944,7 +2944,7 @@
   "input": "kala a^@ia",
   "mean": "종교 상징물",
   "n": 327,
-  "note": "kala le-@ia(신의 징조, 계시)와 구별",
+  "note": "",
   "id": "w327"
  },
  {
@@ -2952,7 +2952,7 @@
   "input": "ukla",
   "mean": "가다 (현재형)",
   "n": 328,
-  "note": "과거형은 비음형 @ukla",
+  "note": "",
   "tags": [
    "현재형"
   ],
@@ -2963,7 +2963,7 @@
   "input": "tekla",
   "mean": "오다 (현재형)",
   "n": 329,
-  "note": "과거형은 비음형 @tekla",
+  "note": "",
   "tags": [
    "현재형"
   ],
@@ -2974,7 +2974,7 @@
   "input": "arta",
   "mean": "오다 (현재형)",
   "n": 330,
-  "note": "과거형은 비음형 @arta",
+  "note": "",
   "tags": [
    "현재형"
   ],
@@ -3001,7 +3001,7 @@
   "input": "va-",
   "mean": "~인, ~에 속한 사람 (민족·지역·집단·성품, 모음 앞 v')",
   "n": 333,
-  "note": "va a- 구가 접두사로 굳음. 행위자 ak-, 계급 asur(a)-와 구별",
+  "note": "",
   "id": "w333"
  },
  {
@@ -3009,7 +3009,7 @@
   "input": "asura-",
   "mean": "~민, ~계급의 사람 (신분·계급명). 보통 asur-, 허용되지 않는 자음군이 생길 때만 asura-",
   "n": 334,
-  "note": "asure(종)의 변형. 같은 종소리에 모이는 사람들 → 공동체·신분 집단. 신분·계급명에만 쓰고 민족·지역명에는 va-",
+  "note": "",
   "id": "w334"
  },
  {
@@ -3017,7 +3017,7 @@
   "input": "las",
   "mean": "먹이",
   "n": 335,
-  "note": "e-las 먹이터",
+  "note": "",
   "tags": [
    "에냥어 기원"
   ],
@@ -3041,7 +3041,7 @@
   "input": "el-",
   "mean": "~주의 (접두사)",
   "n": 337,
-  "note": "대부분 후대 합성어로 붙음(el·어근). 이니셜은 접두사가 아닌 어근의 첫 글자. 단 부정 pe-는 P로 남김",
+  "note": "",
   "id": "w337"
  },
  {
@@ -3049,7 +3049,7 @@
   "input": "leppe",
   "mean": "정합",
   "n": 338,
-  "note": "el·leppe 정합주의",
+  "note": "",
   "id": "w338"
  },
  {
@@ -3057,7 +3057,7 @@
   "input": "cateska",
   "mean": "품을 팔다, 삯일하다",
   "n": 339,
-  "note": "일반적인 '일하다'는 atar. 무산자 Asura cateska p'etako eko-asiel(A.S.P.E.)",
+  "note": "",
   "id": "w339"
  },
  {
@@ -3109,7 +3109,7 @@
   "input": "aspal",
   "mean": "(B 기원) 산의 옛 이름, 원뜻 불명",
   "n": 346,
-  "note": "에클라이아어 이전 원주민어 B의 지명. 에클레아어 단계에서 존칭 ve를 붙여 Ve·aspal로 부름 (이전: 에클라이아어 단계 Ve-a-aspal. 이전 안 aspai, aspaa, aspar)",
+  "note": "",
   "tags": [
    "지명"
   ],
@@ -3120,7 +3120,7 @@
   "input": "ve·aspal",
   "mean": "산 이름 (눈 덮인 아스파이 산)",
   "n": 347,
-  "note": "Véaspal [veˈaspal] 베아스팔. 에클레아어 단계 합성어(존칭 ve + aspal). 에클레아 무산자당 약칭 VÉASPAL과 같은 형태 (이전: ve-a-aspal, Vêaspal)",
+  "note": "",
   "tags": [
    "지명"
   ],
@@ -3131,7 +3131,7 @@
   "input": "liska",
   "mean": "지부, 분파",
   "n": 348,
-  "note": "Lisque [lisk] 리스크",
+  "note": "",
   "id": "w348"
  },
  {
@@ -3139,7 +3139,7 @@
   "input": "iversa",
   "mean": "뒤엎다, 혁명",
   "n": 349,
-  "note": "Ivèrche [iˈveʁʃ] 이베르슈. '뒤엎다'가 근대에 '혁명'으로 확대. 형용사형 a Ivèrche",
+  "note": "",
   "id": "w349"
  },
  {
@@ -3158,7 +3158,7 @@
   "input": "seprua",
   "mean": "목소리",
   "n": 351,
-  "note": "대화에서 추가",
+  "note": "",
   "id": "w351"
  },
  {
@@ -3166,7 +3166,7 @@
   "input": "kate",
   "mean": "잃다",
   "n": 352,
-  "note": "대화에서 추가",
+  "note": "",
   "id": "w352"
  },
  {
@@ -3174,7 +3174,7 @@
   "input": "ispika",
   "mean": "꿈꾸다",
   "n": 353,
-  "note": "대화에서 추가",
+  "note": "",
   "id": "w353"
  },
  {
@@ -3182,7 +3182,7 @@
   "input": "soiva",
   "mean": "견디다, 참다",
   "n": 354,
-  "note": "대화에서 추가. 불관용은 pe-soiva",
+  "note": "",
   "id": "w354"
  },
  {
@@ -3190,7 +3190,7 @@
   "input": "arota",
   "mean": "잊다",
   "n": 355,
-  "note": "대화에서 추가",
+  "note": "",
   "id": "w355"
  },
  {
@@ -3198,7 +3198,7 @@
   "input": "ascoa",
   "mean": "마음",
   "n": 356,
-  "note": "대화에서 추가",
+  "note": "",
   "id": "w356"
  },
  {
@@ -3206,7 +3206,7 @@
   "input": "ikia",
   "mean": "두렵다",
   "n": 357,
-  "note": "대화에서 추가",
+  "note": "",
   "id": "w357"
  },
  {
@@ -3214,7 +3214,7 @@
   "input": "tetaloi",
   "mean": "머뭇거리다",
   "n": 358,
-  "note": "제망매가 번역에서 추가. 첫 음절 반복(te-ta)",
+  "note": "",
   "id": "w358"
  },
  {
@@ -3222,7 +3222,7 @@
   "input": "@tosi",
   "mean": "누이",
   "n": 359,
-  "note": "제망매가 번역에서 추가. 친족어라 비음형 화석",
+  "note": "",
   "tags": [
    "비음형 화석",
    "생물"
@@ -3234,7 +3234,7 @@
   "input": "veila",
   "mean": "잎",
   "n": 360,
-  "note": "제망매가 번역에서 추가",
+  "note": "",
   "id": "w360"
  },
  {
@@ -3242,7 +3242,7 @@
   "input": "kepla",
   "mean": "떨어지다 (낙하)",
   "n": 361,
-  "note": "제망매가 번역에서 추가. @siku(미끄러지다)와 구별",
+  "note": "",
   "id": "w361"
  },
  {
@@ -3250,7 +3250,7 @@
   "input": "ruva",
   "mean": "바람",
   "n": 362,
-  "note": "제망매가 번역에서 추가. acura(폭풍)와 구별되는 일반적인 바람",
+  "note": "",
   "id": "w362"
  },
  {
@@ -3258,7 +3258,7 @@
   "input": "etli",
   "mean": "이르다 (早)",
   "n": 363,
-  "note": "제망매가 번역에서 추가. etlikatai(새벽)에서 역형성",
+  "note": "",
   "id": "w363"
  },
  {
@@ -3266,7 +3266,7 @@
   "input": "rel",
   "mean": "가을",
   "n": 364,
-  "note": "제망매가 번역에서 추가",
+  "note": "",
   "id": "w364"
  },
  {
@@ -3274,7 +3274,7 @@
   "input": "air-",
   "mean": "~처럼, ~같이",
   "n": 365,
-  "note": "제망매가 번역에서 추가. air(모양)에서 문법화",
+  "note": "",
   "id": "w365"
  },
  {
@@ -3282,7 +3282,7 @@
   "input": "kir",
   "mean": "만나다",
   "n": 366,
-  "note": "제망매가 번역에서 추가",
+  "note": "",
   "tags": [
    "에냥어 기원"
   ],
@@ -3294,7 +3294,7 @@
   "input": "tesva",
   "mean": "기다리다",
   "n": 367,
-  "note": "제망매가 번역에서 추가",
+  "note": "",
   "id": "w367"
  },
  {
@@ -3302,7 +3302,7 @@
   "input": "purarte",
   "mean": "내세, 저승",
   "n": 368,
-  "note": "제망매가 번역에서 추가. pur(저)+arte(모임) '저편의 모임'이 어휘화된 계승어",
+  "note": "",
   "id": "w368"
  },
  {
@@ -3310,14 +3310,14 @@
   "input": "pasva",
   "mean": "고통",
   "n": 369,
-  "note": "대화에서 추가",
+  "note": "",
   "id": "w369"
  },
  {
   "head": "laete~areta",
   "mean": "산파",
   "input": "@laete~areta",
-  "note": "에클라이아어 단계 합성어. 여성+일으키다 '일으키는 여인'. Hebamme(heben), levatrice와 같은 발상. 이전 안 laspe~loi(산모로 읽힘), aisa~laspe(비모음+l) 폐기",
+  "note": "",
   "tags": [
    "비음형 화석",
    "생물"
@@ -3330,7 +3330,7 @@
   "input": "apre~la",
   "mean": "역사",
   "n": 371,
-  "note": "에클라이아어 단계 합성어. 앞(옛)+말 '옛이야기'에서 서술된 과거, 과거의 흐름으로 확대 (histoire와 같은 경로)",
+  "note": "",
   "id": "w371"
  },
  {
@@ -3338,7 +3338,7 @@
   "input": "p'islepol",
   "mean": "힘, 강제, 폭력 (Gewalt)",
   "n": 372,
-  "note": "에클라이아어 단계 합성어. 명사화 pa- + islepol(강제하다), 모음 앞 축약으로 p'",
+  "note": "",
   "id": "w372"
  },
  {
@@ -3346,7 +3346,7 @@
   "input": "ace",
   "mean": "윙윙거리다, 웅웅대다 (날벌레 소리)",
   "n": 373,
-  "note": "의성어 어근. 파리 ace~ka의 앞 요소",
+  "note": "",
   "id": "w373"
  },
  {
@@ -3354,7 +3354,7 @@
   "input": "ort'·@opia",
   "mean": "2인칭 복수 (에클레아어 자유 대명사)",
   "n": 374,
-  "note": "에클레아어 단계 합성어. orta-(모든)+ogne(2단) '너희 모두'. 기존 2복 자유 대명사 dagne(@tepia)가 개(@caso)와 동음이 되어 생김",
+  "note": "",
   "tags": [
    "자유 대명사",
    "후대 합성어"
@@ -3366,7 +3366,7 @@
   "input": "arata",
   "mean": "국가",
   "n": 375,
-  "note": "사어가 된 akla를 대신함",
+  "note": "",
   "id": "w375"
  },
  {
@@ -3374,7 +3374,7 @@
   "input": "akkala~puro",
   "mean": "왕국 1 (Kla의 계곡)",
   "n": 376,
-  "note": "B at-kla pɯro (속격-강 Kla 계곡). A에서 tk를 kk로 동화, kl 사이 모음 삽입. Accalapre",
+  "note": "",
   "tags": [
    "지명"
   ],
@@ -3385,7 +3385,7 @@
   "input": "urtei~sa",
   "mean": "왕국 2 (해협의 남쪽, 초기 상륙지)",
   "n": 377,
-  "note": "B t-rɯ ei ʃa (속격-좋은 습기 남쪽). B 내부: 첫 모음 복사 ɯt-, 유음 도치 tr→rt, 약모음 ɯ 모음 앞 탈락 → ɯrtei ʃa. Eurtêge",
+  "note": "",
   "tags": [
    "지명"
   ],
@@ -3396,7 +3396,7 @@
   "input": "iro~sepi",
   "mean": "왕국 3 (서쪽 + 민족 A)",
   "n": 378,
-  "note": "B iro ʃemi (서쪽 + '좁다'에서 온 민족명). 장소 부류라 비음 없음. Irchépi",
+  "note": "",
   "tags": [
    "지명"
   ],
@@ -3407,7 +3407,7 @@
   "input": "sora~so",
   "mean": "왕국 4 (동쪽 + 민족 B)",
   "n": 379,
-  "note": "B ʃora ʃo (동쪽 + '단검'에서 온 민족명). 장소 부류라 비음 없음. Chorage",
+  "note": "",
   "tags": [
    "지명"
   ],
@@ -3418,7 +3418,7 @@
   "input": "orail",
   "mean": "왕국 5 (경계의 땅)",
   "n": 380,
-  "note": "B orail (경계). 장소 부류라 사람 표지 *N-·집합 -n이 붙지 않음. 민족명은 @orailit. Orêl",
+  "note": "",
   "tags": [
    "지명"
   ],
@@ -3429,7 +3429,7 @@
   "input": "eppelot",
   "mean": "왕국 6 (숲의 부대)",
   "n": 381,
-  "note": "B et-pelo-n (속격-숲-부대). -n은 '쫓다'에서 문법화한 부대 접미사라 땅 이름에도 남음. A에서 tp를 pp로 동화. Éppélot",
+  "note": "",
   "tags": [
    "지명"
   ],
@@ -3440,7 +3440,7 @@
   "input": "@sepi",
   "mean": "민족 A (좁은 사람들)",
   "n": 382,
-  "note": "B N-ʃemi. 유생 부류라 비음형 화석. Dambi",
+  "note": "",
   "tags": [
    "민족명",
    "비음형 화석"
@@ -3452,7 +3452,7 @@
   "input": "@so",
   "mean": "민족 B (단검의 사람들)",
   "n": 383,
-  "note": "B N-ʃo. 유생 부류라 비음형 화석. Don",
+  "note": "",
   "tags": [
    "민족명",
    "비음형 화석"
@@ -3464,7 +3464,7 @@
   "input": "@orailit",
   "mean": "경계 민족",
   "n": 384,
-  "note": "B N-orail-n (사람-경계-집합). A에서 어말 자음군 lt 사이에 앞 모음 복사. Orêlind",
+  "note": "",
   "tags": [
    "민족명",
    "비음형 화석"
@@ -3476,7 +3476,7 @@
   "input": "rei",
   "mean": "해협 이름 (좋은 습기)",
   "n": 385,
-  "note": "B rɯ ei. 약모음 ɯ가 모음 앞에서 탈락. Rê",
+  "note": "",
   "tags": [
    "지명"
   ],
@@ -3487,7 +3487,7 @@
   "input": "pelo",
   "mean": "숲 이름 (왕국 6의 숲)",
   "n": 386,
-  "note": "B pelo (숲). Pèle",
+  "note": "",
   "tags": [
    "지명"
   ],
@@ -3498,7 +3498,7 @@
   "input": "@atrepor",
   "mean": "동굴에 사는 흔한 동물",
   "n": 387,
-  "note": "마태 8:20 번역에서 추가(여우 자리). 동물이라 비음형 화석",
+  "note": "",
   "tags": [
    "비음형 화석",
    "생물"
@@ -3510,7 +3510,7 @@
   "input": "ailicis",
   "mean": "동굴, (짐승의) 굴",
   "n": 388,
-  "note": "마태 8:20 번역에서 추가",
+  "note": "",
   "id": "w388"
  },
  {
@@ -3518,7 +3518,7 @@
   "input": "cipe",
   "mean": "둥지",
   "n": 389,
-  "note": "마태 8:20 번역에서 추가",
+  "note": "",
   "id": "w389"
  },
  {
@@ -3552,7 +3552,7 @@
   "input": "iai",
   "mean": "하늘",
   "n": 392,
-  "note": "Yê [je]. 숫자 ie(5) Yé [je]와 동음, 철자로만 구별",
+  "note": "",
   "id": "w392"
  },
  {
@@ -3568,7 +3568,7 @@
   "input": "oskia",
   "mean": "눕히다",
   "n": 394,
-  "note": "머리를 누이다(쉬다)에도 씀",
+  "note": "",
   "id": "w394"
  },
  {
@@ -3576,7 +3576,7 @@
   "input": "sir",
   "mean": "관계절 표지 (명사 뒤, 관계절 앞)",
   "n": 395,
-  "note": "지시사 sir의 접어형, 구강형 Chir [ʃiʁ]. 입력은 sir^. 절대격 논항(자동사 주어, 타동사 목적어)만 바로 관계화하고 능격 논항은 반피동 asti-를 거침. 빠진 자리는 비워 둠",
+  "note": "",
   "id": "w395"
  },
  {
@@ -3584,7 +3584,7 @@
   "input": "risau",
   "mean": "투쟁",
   "n": 396,
-  "note": "인터내셔널가 번역에서 추가. etlir(전쟁)와 구별",
+  "note": "",
   "id": "w396"
  },
  {
@@ -3592,7 +3592,7 @@
   "input": "tas",
   "mean": "끝",
   "n": 397,
-  "note": "인터내셔널가 번역에서 추가. tas(먹다)와 동음이의어(원가사 faim/fin과 같은 관계)",
+  "note": "",
   "tags": [
    "에냥어 기원"
   ],
@@ -3604,7 +3604,7 @@
   "input": "@kiset",
   "mean": "B 민족 전체 (에냥어 자칭 N-kiʃe-n '말하는 사람들'의 차용)",
   "n": 398,
-  "note": "Ègnand [ˈeɲɑ̃] 에냥. B 원형 N-kiʃe-n [kĩʃẽn], 학술 명칭 N-kiʃe-n어. B 어근 kiʃe '말하다'는 B·F 공통 조상에서 물려받은 말이고, 이를 민족 자칭으로 쓴 것은 정복 뒤 Irchépi 시기 B의 혁신(F에는 대응하는 민족명 없음). 어두 k는 비음형에서 ŋ이 되어 탈락, ʃ는 gn. 언어명 Lévèle l'Ègnand(에클레아어 단계에서 만든 구라 속격이 모음 앞에서 축약, 입력 le-·@Kiset). @etlesta Ègnânde [eˈɲɑ̃d]와 강세·잠재 자음으로 구별",
+  "note": "",
   "tags": [
    "민족명",
    "비음형 화석"
@@ -3615,7 +3615,7 @@
   "head": "povara",
   "mean": "F 민족 (포브르어 자칭 pʰowəχa의 차용)",
   "input": "%powəxa",
-  "note": "Fovre [fovʁ] 포브르. F 원형 pʰowəχa, 어근 뜻 미정. 경로 pʰowəχa → fowəʁ → fowʁ → fovʁ(pʰ→f, χ→ʁ, 어말 a 탈락, ʁ 앞 ə 탈락, 중세 w→v). 언어명 Lévèle lé-Fovre(에클레아어 단계에서 만든 구, 입력 le-·%Powəxa). 에클라이아 F 화자는 난민 국가 집단과 약 130km 떨어진 지역 출신으로, pʰ→f 개신의 주변부([pʰ~ɸ] 변이)라 A 화자가 f로 받아들임. 가장 큰 난민 집단이 세운 국가의 방언 자칭은 Vischwa [ˈviʃwa]: 출신 지역 단계 pʰ→f·ə 탈락(fowχa) → 정착 후 약 300년 동안 wχ→χw 음위전환, 어두 f→v, o→u→y, y 뒤 χ→ç, y→i, ç→ʃ",
+  "note": "",
   "tags": [
    "F 기원",
    "민족명"
@@ -3629,7 +3629,7 @@
   "input": "eril",
   "mean": "여행",
   "n": 400,
-  "note": "Éril [ˈeʁil]. 역사가 Érquepêril Urre Calêl Calêllurre의 이름 요소(erkupe~eril)",
+  "note": "",
   "id": "w400"
  },
  {
@@ -3637,7 +3637,7 @@
   "input": "yrra",
   "mean": "으르렁거리다",
   "n": 401,
-  "note": "Urre [yʁʁ]. 굴리는 r을 겹친 의성어 어근. 역사가 Érquepêril의 부성",
+  "note": "",
   "id": "w401"
  },
  {
@@ -3645,7 +3645,7 @@
   "input": "@ka~lael",
   "mean": "수리, 매",
   "n": 402,
-  "note": "Alêl [aˈlel]. ka(날짐승) + lael(큰). 인명 요소로는 고유명사라 구강형 Calêl [kaˈlel](역사가 Érquepêril의 모성)",
+  "note": "",
   "tags": [
    "비음형 화석",
    "생물"
@@ -3668,7 +3668,7 @@
   "head": "mixkə",
   "mean": "성교하다",
   "input": "%mixkə",
-  "note": "이전 형태 mixko",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -3692,7 +3692,7 @@
   "head": "muƀex",
   "mean": "거울",
   "input": "%muƀex",
-  "note": "원형 muᵐbeχ",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -3704,7 +3704,7 @@
   "head": "kxim",
   "mean": "소유하다",
   "input": "%kxim",
-  "note": "원형 kʰχim",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -3716,7 +3716,7 @@
   "head": "luxubəhe",
   "mean": "성냥",
   "input": "%luxubəhe",
-  "note": "이전 형태 lukubəxe",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -3728,7 +3728,7 @@
   "head": "xoməxsu",
   "mean": "곳간",
   "input": "%xoməxsu",
-  "note": "이전 형태 xomaxsu",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -3752,7 +3752,7 @@
   "head": "xenim",
   "mean": "불씨",
   "input": "%xenim",
-  "note": "원형 χenim",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -3776,7 +3776,7 @@
   "head": "mobə",
   "mean": "살",
   "input": "%mobə",
-  "note": "이전 형태 moba",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -3788,7 +3788,7 @@
   "head": "ahkek",
   "mean": "깨다 (그릇을)",
   "input": "%ahkek",
-  "note": "이전 형태 askek",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -3800,7 +3800,7 @@
   "head": "mə",
   "mean": "빵",
   "input": "%mə",
-  "note": "원형 mə",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -3812,7 +3812,7 @@
   "head": "jəha",
   "mean": "흔들거리다",
   "input": "%jəha",
-  "note": "이전 형태 juxa",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -3824,7 +3824,7 @@
   "head": "lahkom",
   "mean": "끼니",
   "input": "%lahkom",
-  "note": "이전 형태 laskom",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -3836,7 +3836,7 @@
   "head": "embəla",
   "mean": "맵다",
   "input": "%embəla",
-  "note": "이전 형태 embela",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -3848,7 +3848,7 @@
   "head": "glađəma",
   "mean": "껍데기",
   "input": "%glađəma",
-  "note": "이전 형태 glađama",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -3860,7 +3860,7 @@
   "head": "jilkəmi",
   "mean": "기름",
   "input": "%jilkəmi",
-  "note": "이전 형태 dilkəmi",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -3872,7 +3872,7 @@
   "head": "pibə",
   "mean": "털가죽",
   "input": "%pibə",
-  "note": "이전 형태 puxe",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -3884,7 +3884,7 @@
   "head": "puhu",
   "mean": "껍질 (열매)",
   "input": "%puhu",
-  "note": "이전 형태 poho",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -3908,7 +3908,7 @@
   "head": "ahin",
   "mean": "행복하다",
   "input": "%ahin",
-  "note": "이전 형태 ahino",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -3932,7 +3932,7 @@
   "head": "moxkəlto",
   "mean": "돛대",
   "input": "%moxkəlto",
-  "note": "이전 형태 moxkolto",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -3944,7 +3944,7 @@
   "head": "madu",
   "mean": "밑바닥",
   "input": "%madu",
-  "note": "원형 madu",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -3956,7 +3956,7 @@
   "head": "dom",
   "mean": "눈썹",
   "input": "%dom",
-  "note": "원형 dom",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -3968,7 +3968,7 @@
   "head": "məxu",
   "mean": "황무지",
   "input": "%məxu",
-  "note": "원형 məχu",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -4500,7 +4500,7 @@
   "head": "nu",
   "mean": "해먹",
   "input": "%nu",
-  "note": "원형 nu",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -4524,7 +4524,7 @@
   "head": "ilmeh",
   "mean": "수건",
   "input": "%ilmeh",
-  "note": "이전 형태 ilameh",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -4548,7 +4548,7 @@
   "head": "axgəme",
   "mean": "갑옷",
   "input": "%axgəme",
-  "note": "이전 형태 axgame",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -4560,7 +4560,7 @@
   "head": "sehno",
   "mean": "빨래",
   "input": "%sehno",
-  "note": "이전 형태 sehano",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -4608,7 +4608,7 @@
   "head": "pemultə",
   "mean": "방해하다",
   "input": "%pemultə",
-  "note": "이전 형태 pemulte",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -4644,7 +4644,7 @@
   "head": "ehixux",
   "mean": "옮기다",
   "input": "%ehixux",
-  "note": "이전 형태 ihikuxa",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -4668,7 +4668,7 @@
   "head": "ohəhkeə",
   "mean": "어울림",
   "input": "%ohəhkeə",
-  "note": "이전 형태 axepkee",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -4692,7 +4692,7 @@
   "head": "madej",
   "mean": "절름발이이다",
   "input": "%madej",
-  "note": "이전 형태 matej",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -4704,7 +4704,7 @@
   "head": "amiəjiə",
   "mean": "유령",
   "input": "%amiəjiə",
-  "note": "이전 형태 amiegie",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -4716,7 +4716,7 @@
   "head": "plidə",
   "mean": "잉걸불",
   "input": "%plidə",
-  "note": "이전 형태 plide",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -4788,7 +4788,7 @@
   "head": "kuhkux",
   "mean": "솔",
   "input": "%kuhkux",
-  "note": "원형 kʰuhkʰuχ",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -4800,7 +4800,7 @@
   "head": "soǥu",
   "mean": "향기롭다",
   "input": "%soǥu",
-  "note": "원형 soᵑgu",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -4812,7 +4812,7 @@
   "head": "iləho",
   "mean": "속옷",
   "input": "%iləho",
-  "note": "이전 형태 ileho",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -4824,7 +4824,7 @@
   "head": "muđəje",
   "mean": "대장간",
   "input": "%muđəje",
-  "note": "이전 형태 muđake",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -4836,7 +4836,7 @@
   "head": "puhji",
   "mean": "꾸짖다",
   "input": "%puhji",
-  "note": "이전 형태 puhti",
+  "note": "",
   "tags": [
    "F 기원"
   ],
@@ -4868,7 +4868,7 @@
   "head": "arkape",
   "mean": "(인명) 사랑받는, 쓴, 반역",
   "input": "arkape",
-  "note": "사랑받는: 계승어 arkaput. 쓴: 에냥어 *vAr.gax.mɛ → arkame → arkape. 반역: 에냥어 *vɔr.gɔx.pun → arkapum → arkapup. 세 경로가 에클레아어 arcafe [aʁˈkaf]로 수렴",
+  "note": "",
   "tags": [
    "인명",
    "에냥어 기원"
@@ -4881,7 +4881,7 @@
   "head": "arka",
   "mean": "약초",
   "input": "arka",
-  "note": "에냥어 *vAr.gax.mɛ(쓴)를 *vAr.gax + *mɛ로 재분석한 앞부분. 풀은 kar가 따로 있어 약초로 둠. *vɔr.gɔx도 에냥어에서 같은 arka가 됨",
+  "note": "",
   "tags": [
    "에냥어 기원"
   ],
@@ -4893,7 +4893,7 @@
   "head": "pe",
   "mean": "맛",
   "input": "pe",
-  "note": "에냥어 *vAr.gax.mɛ(쓴)를 *vAr.gax + *mɛ로 재분석한 뒷부분. 조어 *mɛ → 에냥어 me → pe. Pe(부정), pe-와 동음",
+  "note": "",
   "tags": [
    "에냥어 기원"
   ],
@@ -4905,7 +4905,7 @@
   "head": "arkap",
   "mean": "반역자",
   "input": "@arkap",
-  "note": "에냥어 *N-vɔr.gɔx.pun (사람 표지 *N- + 반역). 유생 부류라 비음형 화석. 에클라이아어 단계에서 끝 음절 -up이 잘림(arkapup → arkap). Argamb",
+  "note": "",
   "tags": [
    "비음형 화석",
    "에냥어 기원",
