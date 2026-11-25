@@ -4975,5 +4975,23 @@
   "tags": [],
   "n": 529,
   "id": "wmwvpxmz8p08e"
+ },
+ {
+  "head": "areta-",
+  "mean": "원인 (~어서, ~ 때문에)",
+  "input": "areta-",
+  "note": "",
+  "tags": [],
+  "n": 530,
+  "id": "wnmjrmsbynj"
+ },
+ {
+  "head": "ake-",
+  "mean": "결과 (그래서, 그 결과)",
+  "input": "ake-",
+  "note": "",
+  "tags": [],
+  "n": 531,
+  "id": "wclsxgvkwvr"
  }
 ]
