@@ -4915,5 +4915,43 @@
   "n": 520,
   "id": "wmwuc9z0",
   "pef": "vAr.gax.mɛ"
+ },
+ {
+  "head": "arka",
+  "mean": "약초",
+  "input": "arka",
+  "note": "에냥어 *vAr.gax.mɛ(쓴)를 *vAr.gax + *mɛ로 재분석한 앞부분. 풀은 kar가 따로 있어 약초로 둠. *vɔr.gɔx도 에냥어에서 같은 arka가 됨",
+  "tags": [
+   "에냥어 기원"
+  ],
+  "n": 521,
+  "id": "wmwvdmdvryg",
+  "pef": "vAr.gax"
+ },
+ {
+  "head": "pe",
+  "mean": "맛",
+  "input": "pe",
+  "note": "에냥어 *vAr.gax.mɛ(쓴)를 *vAr.gax + *mɛ로 재분석한 뒷부분. 조어 *mɛ → 에냥어 me → pe. Pe(부정), pe-와 동음",
+  "tags": [
+   "에냥어 기원"
+  ],
+  "n": 522,
+  "id": "wmwvdmdvrtl",
+  "pef": "mɛ"
+ },
+ {
+  "head": "arkap",
+  "mean": "반역자",
+  "input": "@arkap",
+  "note": "에냥어 *N-vɔr.gɔx.pun (사람 표지 *N- + 반역). 유생 부류라 비음형 화석. 에클라이아어 단계에서 끝 음절 -up이 잘림(arkapup → arkap). Argamb",
+  "tags": [
+   "비음형 화석",
+   "에냥어 기원",
+   "행위자 명사"
+  ],
+  "n": 523,
+  "id": "wmwvdmdvrtj",
+  "pef": "vɔr.gɔx.pun"
  }
 ]
